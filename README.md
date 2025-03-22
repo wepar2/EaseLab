@@ -4,7 +4,7 @@ EaseLab es un dashboard web personalizable que te permite organizar tus enlaces 
 
 ![desktop.png](img/desktop.png)
 
-![responsive.png](img/responsive.png)
+<img src="img/responsive.png" alt="Captura de pantalla del dashboard" style="width: 500px; height: auto;">
 
 ## Características
 
