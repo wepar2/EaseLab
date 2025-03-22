@@ -43,8 +43,8 @@ EaseLab es un dashboard web personalizable que te permite organizar tus enlaces 
 1.  **Clonar el repositorio:**
 
     ```bash
-    git clone <URL_del_repositorio>
-    cd <nombre_del_repositorio>
+    git https://github.com/wepar2/EaseLab
+    cd EaseLab
     ```
 
 2.  **Crear un entorno virtual (recomendado):**
@@ -95,18 +95,19 @@ EaseLab es un dashboard web personalizable que te permite organizar tus enlaces 
 
 ## Estructura del Proyecto
 
+```text
 EaseLab/
-├── app.py              # Archivo principal de la aplicación Flask
+├── app.py
 ├── templates/
-│   └── index.html      # Plantilla HTML principal
+│   └── index.html
 ├── static/
-│   ├── styles.css      # Archivos CSS
-│   ├── script.js       # Archivos JavaScript
-│   └── img/            # Imágenes estáticas (favicon)
-│   └── uploads/        # Carpeta para las imágenes/videos de fondo subidos por el usuario
-├── database.db         # Base de datos SQLite
-└── README.md           # Este archivo
-
+│   ├── styles.css
+│   ├── script.js
+│   ├── img/
+│   └── uploads/
+├── database.db
+└── README.md
+```
 
 ## Contribución
 
