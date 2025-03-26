@@ -4,9 +4,9 @@ EaseLab is a customizable web dashboard that allows you to organize your importa
 
 EaseLab es un dashboard web personalizable que te permite organizar tus enlaces importantes de forma visual y accesible. Puedes añadir, editar, eliminar y reordenar los enlaces, así como personalizar el fondo con colores, imágenes o videos.
 
-![desktop.png](img/desktop.png)
+![desktop.png](data/img/desktop.png)
 
-<img src="img/responsive.png" alt="Dashboard Screenshot" style="width: 500px; height: auto;">
+<img src="data/img/responsive.png" alt="Dashboard Screenshot" style="width: 500px; height: auto;">
 
 ## Features / Características
 
