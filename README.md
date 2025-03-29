@@ -47,7 +47,7 @@ EaseLab es un dashboard web personalizable que te permite organizar tus enlaces 
 1.  **Clone the repository / Clona el repositorio:**
 
     ```bash
-    git clone [https://github.com/wepar2/EaseLab](https://github.com/wepar2/EaseLab)
+    git clone https://github.com/wepar2/EaseLab
     cd EaseLab
     ```
 
